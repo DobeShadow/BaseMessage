@@ -1,0 +1,8 @@
+# 加入游戏信息
+JoinMessage: "&8[&a&l+&8] &7玩家 &f%player% &7加入了游戏!"
+# 退出游戏信息
+QuitMessage: "&8[&c&l-&8] &7玩家 &f%player% &7离开了游戏!"
+# Vip加入游戏信息(权限为: baseplugin.join.vip)
+VipJoinMessage: "&8[&a&l+&8] &a尊贵的Vip玩家 &f%player% &7加入了游戏!"
+# Vip退出游戏信息(权限为: baseplugin.quit.vip)
+VipQuitMessage: "&8[&c&l-&8] &a尊贵的Vip玩家 &f%player% &7离开了游戏!"
